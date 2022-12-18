@@ -17,3 +17,21 @@
 [哔嘀影视](https://www.bdys01.com/)
 
 [555影视](https://www.555kyy.com/)
+
+[奈菲影视](https://www.nfyingshi.com/)
+
+[cokemv](https://cokemv.me/)
+
+[豌豆pro](https://www.wandou.pro/)
+
+[YaNetflix](https://netflixya.com/)
+
+[韩剧NO视频](https://www.novipnoad.com/)
+
+[Upfox](https://cupfox.app/)
+
+### 视频解析
+[BL解析](https://svip.bljiex.cc/)
+
+## Python学习
+[官网](https://www.python.org/)
